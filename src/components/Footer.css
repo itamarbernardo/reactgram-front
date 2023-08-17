@@ -1,0 +1,9 @@
+#footer {
+    background-color: #121212;
+    height: 200px;
+    display: flex;
+    justify-content: center; /*alinha na horizontal*/
+    align-items: center; /*alinha na vertical*/
+    border-top: 1px solid #363636;
+  }
+  
